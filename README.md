@@ -1,7 +1,7 @@
 # The future of industrial robotics and automation
 
-**Published:** 2023-04-15
-**Medium:** [https://medium.com/@kyle-t-jones/the-future-of-industrial-robotics-and-automation-396652cae8c5](https://medium.com/@kyle-t-jones/the-future-of-industrial-robotics-and-automation-396652cae8c5)
+Published: 2023-04-15
+Medium: [https://medium.com/@kyle-t-jones/the-future-of-industrial-robotics-and-automation-396652cae8c5](https://medium.com/@kyle-t-jones/the-future-of-industrial-robotics-and-automation-396652cae8c5)
 
 ## About
 
